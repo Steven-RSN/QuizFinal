@@ -22,7 +22,8 @@ header{
 
 .bigBrain{
     grid-row: 1/span 2;
-    height: 110px;
+    height: 125px;
+    margin-left: 20px;
 }
 
 .svgUtilisateur{
